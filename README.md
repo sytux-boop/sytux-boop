@@ -1,6 +1,6 @@
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
-  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Javascript-afaf77?style=for-the-badge&logo=Javascript&logoColor=black" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
