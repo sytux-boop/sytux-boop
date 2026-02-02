@@ -1,4 +1,4 @@
-<img src="./cover-image.jpg" />
+<img src="./cover-image.jpg" style="width: 100%; text-align: center;" />
 
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
