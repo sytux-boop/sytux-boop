@@ -1,4 +1,4 @@
-<img src="" />
+<img src="./cover-image.jpg" />
 
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
