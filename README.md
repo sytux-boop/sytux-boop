@@ -18,6 +18,7 @@
   <li><h2>Frameworks:</h2></li>
   <p align="left">
     <img src="https://img.shields.io/badge/Angular-fc5682?style=for-the-badge&logo=angular&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-56fcf4?style=for-the-badge&logo=react&logoColor=black" />
   </p>
   <li><h2>Engines:</h2></li>
   <p align="left">
