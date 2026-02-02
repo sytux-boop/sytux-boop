@@ -1,4 +1,5 @@
 <h1 align="center">console.log("Hey there!! 👋🏻 I'm Pietro")</h1>
+<p align="center">Front-End Dev | Interested in Machine Learning</p>
 <hr>
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
