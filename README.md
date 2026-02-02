@@ -1,3 +1,5 @@
+<h1 align="center">console.log("Hey there!! 👋🏻 I'm Pietro")</h1>
+<hr>
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-ffe74a?style=for-the-badge&logo=Javascript&logoColor=black" />
@@ -5,14 +7,11 @@
   <img src="https://img.shields.io/badge/HTML-ff504a?style=for-the-badge&logo=html5&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS-4a98ff?style=for-the-badge&logo=css&logoColor=black" />
 </p>
-
 <h2>Placed my hands on:</h2>
 <p align="left">
     <img src="https://img.shields.io/badge/Arduino-abeaff?style=for-the-badge&logo=arduino&logoColor=black" />
 </p>
-
 <hr>
-
 <h1 align='left'><strong>Learning:</strong></h1>
 <ul>
   <li><h2>Frameworks:</h2></li>
