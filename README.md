@@ -5,16 +5,19 @@
   </a>
 </p>
 <hr>
+<hr>
 <h1 align='left'><strong>Learning:</strong></h1>
-<h2>Frameworks:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
-  </a>
-</p>
-<h2>Engines:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot" />
-  </a>
-</p>
+<ul>
+  <li><h2>Frameworks:</h2></li>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=angular" />
+    </a>
+  </p>
+  <li><h2>Engines:</h2></li>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=godot" />
+    </a>
+  </p>
+</ul>
