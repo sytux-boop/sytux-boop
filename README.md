@@ -1,9 +1,9 @@
 <h1 align="left"><strong>Languages:</strong></h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-ffe74a?style=for-the-badge&logo=Javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-654aff?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-654aff?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-ff504a?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-4a98ff?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-4a98ff?style=for-the-badge&logo=css&logoColor=black" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
