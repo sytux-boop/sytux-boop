@@ -5,8 +5,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-ffe74a?style=for-the-badge&logo=Javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-654aff?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-ff504a?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-4a98ff?style=for-the-badge&logo=css&logoColor=black" />
+  (<img src="https://img.shields.io/badge/HTML-ff504a?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-4a98ff?style=for-the-badge&logo=css&logoColor=black" />)
 </p>
 <h2>Placed my hands on:</h2>
 <p align="left">
