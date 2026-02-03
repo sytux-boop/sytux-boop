@@ -19,6 +19,7 @@
   <p align="left">
     <img src="https://img.shields.io/badge/Angular-fc5682?style=for-the-badge&logo=angular&logoColor=black" />
     <img src="https://img.shields.io/badge/Next.js-212121?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-ee3039?style=for-the-badge&logo=nestjs&logoColor=white" />
   </p>
   <li><h2>Engines:</h2></li>
   <p align="left">
